@@ -1,0 +1,18 @@
+
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .column {
+    flex: 1 0 32%;
+    margin: 2px;
+  }
+  
+  li {
+    list-style: none;
+  }
